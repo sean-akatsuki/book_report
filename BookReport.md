@@ -1,7 +1,7 @@
 
 # 📚 Reading Database
-### 2026/06 as now
-
+##### NOW AS 2026/06 
+###### Find Me [@Linkedin: Sean,Zhang](https://www.linkedin.com/in/seanxyzhang)
 | Year | Status | Title | Author | Progress |
 |------|---------|---------|---------|---------|
 | 2025 | Done | [菜食主義者](https://www.amazon.co.jp/s?k=菜食主義者+韓江) | ハンカン（韓江） | 100% |
