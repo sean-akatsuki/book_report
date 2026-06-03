@@ -30,7 +30,7 @@
 | 2026 | Planned | [夜は短し歩けよ乙女](https://www.amazon.co.jp/s?k=夜は短し歩けよ乙女+森見登美彦) | 森見登美彦 | 0% |
 | 2026 | Planned | [坊っちゃん](https://www.amazon.co.jp/s?k=坊っちゃん+夏目漱石) | 夏目漱石 | 0% |
 | 2026 | Planned | [死神の精度](https://www.amazon.co.jp/s?k=死神の精度+伊坂幸太郎) | 伊坂幸太郎 | 0% |
-| 2026 | Planned | [The Amazon Way: Amazon's 14 Leadership Principles](https://www.amazon.co.jp/s?k=The+Amazon+Way) | Amazon | 0% |
+| 2026 | Planned | [The Amazon Way: Amazon's 14 Leadership Principles](https://www.amazon.co.jp/s?k=The+Amazon+Way) | Amazon | 5% |
 | 2026 | Planned | [Wonder](https://www.amazon.co.jp/s?k=Wonder+R.J.+Palacio) | R.J. Palacio | 0% |
 | 2026 | Planned | [The Giver](https://www.amazon.co.jp/s?k=The+Giver+Lois+Lowry) | Lois Lowry | 0% |
 | 2026 | Planned | [Why Nations Fail:The Origins of Power, Prosperity and Poverty](https://www.amazon.co.jp/s?k=Why+Nations+Fail) | Daron Acemoglu, James Robinson | 0% |
