@@ -33,7 +33,7 @@
 | 2026 | Planned | [The Amazon Way: Amazon's 14 Leadership Principles](https://www.amazon.co.jp/s?k=The+Amazon+Way) | Amazon | 0% |
 | 2026 | Planned | [Wonder](https://www.amazon.co.jp/s?k=Wonder+R.J.+Palacio) | R.J. Palacio | 0% |
 | 2026 | Planned | [The Giver](https://www.amazon.co.jp/s?k=The+Giver+Lois+Lowry) | Lois Lowry | 0% |
-| 2026 | Planned | [Why Nations Fail](https://www.amazon.co.jp/s?k=Why+Nations+Fail) | Daron Acemoglu, James Robinson | 0% |
+| 2026 | Planned | [Why Nations Fail:The Origins of Power, Prosperity and Poverty](https://www.amazon.co.jp/s?k=Why+Nations+Fail) | Daron Acemoglu, James Robinson | 0% |
 | 2026 | Planned | [The Human Condition](https://www.amazon.co.jp/s?k=The+Human+Condition+Hannah+Arendt) | Hannah Arendt | 5% |
 ---
 
