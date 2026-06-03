@@ -9,7 +9,7 @@
 | 2025 | Done | [天国旅行](https://www.amazon.co.jp/s?k=天国旅行+三浦しおん) | 三浦しおん | 100% |
 | 2025 | Done | [神去なあなあ日常](https://www.amazon.co.jp/s?k=神去なあなあ日常+三浦しおん) | 三浦しおん | 100% |
 | 2025 | Done | [光](https://www.amazon.co.jp/s?k=光+三浦しおん) | 三浦しおん | 100% |
-| 2025 | Done | [Japan's Cultural Codewords](https://www.amazon.co.jp/s?k=Japan%27s+Cultural+Codewords) | De Mente | 100% |
+| 2025 | Done | [Japan's Cultural Codewords](https://www.amazon.co.jp/s?k=Japan%27s+Cultural+Code+words) | De Mente | 100% |
 | 2025 | Done | [Understanding Cultural Treasures of Japan](https://www.amazon.co.jp/s?k=Understanding+Cultural+Treasures+of+Japan+Motoko+Yamamoto) | Motoko Yamamoto | 100% |
 | 2025 | On-going | [The Vegetarian](https://www.amazon.co.jp/s?k=The+Vegetarian+Han+Kang) | Han Kang | 20% |
 | 2025 | On-going | [風が強く吹いている](https://www.amazon.co.jp/s?k=風が強く吹いている+三浦しおん) | 三浦しおん | 15% |
