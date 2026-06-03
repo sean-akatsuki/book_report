@@ -4,38 +4,37 @@
 
 | Year | Status | Title | Author | Progress |
 |------|---------|---------|---------|---------|
-| 2025 | Done | 菜食主義者 | ハンカン（韓江） | 100% |
-| 2025 | Done | 国境の南、太陽の西 | 村上春樹 | 100% |
-| 2025 | Done | 天国旅行 | 三浦しおん | 100% |
-| 2025 | Done | 神去のなあなあ日常 | 三浦しおん | 100% |
-| 2025 | Done | 光 | 三浦しおん | 100% |
-| 2025 | Done | Japan's Cultural Codewords | De Mente | 100% |
-| 2025 | Done | Understanding Cultural Treasures of Japan | Motoko Yamamoto | 100% |
-| 2025 | On-going | The Vegetarian | Han Kang | 20% |
-| 2025 | On-going | 風が強く吹いている | 三浦しおん | 15% |
-| 2025 | Dropped | 日本語の歌と詩 | - | 1% |
-| 2025 | Dropped | One Hundred Poems from Old Japan（百人一首 訳） | Michael Freiling | 1% |
-| 2025 | Dropped | エモい古語辞典 | - | 1% |
-| 2026 | Done | 星の王子さま | 河野万里子訳 | 100% |
-| 2026 | Done | 超かぐや姫 | スタジオコロリド、スタジオクロマト | 100% |
-| 2026 | Done | キッチン | 吉本ばなな | 100% |
-| 2026 | Done | Never Let Me Go | Kazuo Ishiguro | 100% |
-| 2026 | On-going | 君の名前は | 新海誠 | 5% |
-| 2026 | On-going | ツナグ | 辻村深月 | 5% |
-| 2026 | On-going | コンビニ人間 | 村田沙耶香 | 25% |
-| 2026 | On-going | Holes | Louis Sachar | 55% |
-| 2026 | On-going | A History of Modern Japan | Christopher Harding | 30% |
-| 2026 | Planned | 博士の愛した数式 | 小川洋子 | 0% |
-| 2026 | Planned | ひばな | 又吉直樹 | 0% |
-| 2026 | Planned | 夜は短し歩けよ乙女 | 森見登美彦 | 0% |
-| 2026 | Planned | 坊っちゃん | 夏目漱石 | 0% |
-| 2026 | Planned | 死神の精度 | 伊坂幸太郎 | 0% |
-| 2026 | Planned | The Amazon Way | Amazon | 0% |
-| 2026 | Planned | Wonder | R.J. Palacio | 0% |
-| 2026 | Planned | The Giver | Lois Lowry | 0% |
-| 2026 | Planned | Why Nations Fail | Daron Acemoglu, James Robinson | 0% |
-| 2026 | Planned | The Human Condition | Hannah Arendt | 5% |
-
+| 2025 | Done | [菜食主義者](https://www.amazon.co.jp/s?k=菜食主義者+韓江) | ハンカン（韓江） | 100% |
+| 2025 | Done | [国境の南、太陽の西](https://www.amazon.co.jp/s?k=国境の南、太陽の西+村上春樹) | 村上春樹 | 100% |
+| 2025 | Done | [天国旅行](https://www.amazon.co.jp/s?k=天国旅行+三浦しおん) | 三浦しおん | 100% |
+| 2025 | Done | [神去なあなあ日常](https://www.amazon.co.jp/s?k=神去なあなあ日常+三浦しおん) | 三浦しおん | 100% |
+| 2025 | Done | [光](https://www.amazon.co.jp/s?k=光+三浦しおん) | 三浦しおん | 100% |
+| 2025 | Done | [Japan's Cultural Codewords](https://www.amazon.co.jp/s?k=Japan%27s+Cultural+Codewords) | De Mente | 100% |
+| 2025 | Done | [Understanding Cultural Treasures of Japan](https://www.amazon.co.jp/s?k=Understanding+Cultural+Treasures+of+Japan+Motoko+Yamamoto) | Motoko Yamamoto | 100% |
+| 2025 | On-going | [The Vegetarian](https://www.amazon.co.jp/s?k=The+Vegetarian+Han+Kang) | Han Kang | 20% |
+| 2025 | On-going | [風が強く吹いている](https://www.amazon.co.jp/s?k=風が強く吹いている+三浦しおん) | 三浦しおん | 15% |
+| 2025 | Dropped | [日本語の歌と詩](https://www.amazon.co.jp/s?k=日本語の歌と詩) | - | 1% |
+| 2025 | Dropped | [One Hundred Poems from Old Japan](https://www.amazon.co.jp/s?k=One+Hundred+Poems+from+Old+Japan+Michael+Freiling) | Michael Freiling | 1% |
+| 2025 | Dropped | [エモい古語辞典](https://www.amazon.co.jp/s?k=エモい古語辞典) | - | 1% |
+| 2026 | Done | [星の王子さま](https://www.amazon.co.jp/s?k=星の王子さま+河野万里子) | 河野万里子訳 | 100% |
+| 2026 | Done | [超かぐや姫](https://www.amazon.co.jp/s?k=超かぐや姫) | スタジオコロリド、スタジオクロマト | 100% |
+| 2026 | Done | [キッチン](https://www.amazon.co.jp/s?k=キッチン+吉本ばなな) | 吉本ばなな | 100% |
+| 2026 | Done | [Never Let Me Go](https://www.amazon.co.jp/s?k=Never+Let+Me+Go+Kazuo+Ishiguro) | Kazuo Ishiguro | 100% |
+| 2026 | On-going | [君の名は。](https://www.amazon.co.jp/s?k=君の名は+新海誠) | 新海誠 | 5% |
+| 2026 | On-going | [ツナグ](https://www.amazon.co.jp/s?k=ツナグ+辻村深月) | 辻村深月 | 5% |
+| 2026 | On-going | [コンビニ人間](https://www.amazon.co.jp/s?k=コンビニ人間+村田沙耶香) | 村田沙耶香 | 25% |
+| 2026 | On-going | [Holes](https://www.amazon.co.jp/s?k=Holes+Louis+Sachar) | Louis Sachar | 55% |
+| 2026 | On-going | [A History of Modern Japan](https://www.amazon.co.jp/s?k=A+History+of+Modern+Japan+Christopher+Harding) | Christopher Harding | 30% |
+| 2026 | Planned | [博士の愛した数式](https://www.amazon.co.jp/s?k=博士の愛した数式+小川洋子) | 小川洋子 | 0% |
+| 2026 | Planned | [火花](https://www.amazon.co.jp/s?k=火花+又吉直樹) | 又吉直樹 | 0% |
+| 2026 | Planned | [夜は短し歩けよ乙女](https://www.amazon.co.jp/s?k=夜は短し歩けよ乙女+森見登美彦) | 森見登美彦 | 0% |
+| 2026 | Planned | [坊っちゃん](https://www.amazon.co.jp/s?k=坊っちゃん+夏目漱石) | 夏目漱石 | 0% |
+| 2026 | Planned | [死神の精度](https://www.amazon.co.jp/s?k=死神の精度+伊坂幸太郎) | 伊坂幸太郎 | 0% |
+| 2026 | Planned | [The Amazon Way](https://www.amazon.co.jp/s?k=The+Amazon+Way) | Amazon | 0% |
+| 2026 | Planned | [Wonder](https://www.amazon.co.jp/s?k=Wonder+R.J.+Palacio) | R.J. Palacio | 0% |
+| 2026 | Planned | [The Giver](https://www.amazon.co.jp/s?k=The+Giver+Lois+Lowry) | Lois Lowry | 0% |
+| 2026 | Planned | [Why Nations Fail](https://www.amazon.co.jp/s?k=Why+Nations+Fail) | Daron Acemoglu, James Robinson | 0% |
+| 2026 | Planned | [The Human Condition](https://www.amazon.co.jp/s?k=The+Human+Condition+Hannah+Arendt) | Hannah Arendt | 5% |
 ---
 
 # 📚 読書分析レポート（2025–2026）
