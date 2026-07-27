@@ -1,5 +1,5 @@
 
-## think model
+## 1. think model for best alg
 ```mermaid
 
 flowchart TD
@@ -57,7 +57,7 @@ flowchart TD
 ```
 
 
-## complexity of data structure
+## 2. complexity of data structure
 | Category | Data Structure | Access / Query (Avg) | Search / Find (Avg) | Insert / Add (Avg) | Delete / Remove (Avg) | Access / Query (Worst) | Search / Find (Worst) | Insert / Add (Worst) | Delete / Remove (Worst) | Space Complexity (Worst) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Linear** | **Array** | $O(1)$ | $O(n)$ | $O(n)$ | $O(n)$ | $O(1)$ | $O(n)$ | $O(n)$ | $O(n)$ | $O(n)$ |
@@ -96,3 +96,15 @@ Variable Glossary
 - $k$: Number of hash functions (Bloom Filter).
 - $m$: Size of the bit array (Bloom Filter).
 - $\alpha(N)$: Inverse Ackermann function (effectively $O(1)$ in practice).
+
+## math reading
+
+| 表記 | 英語 | 意味 |
+| :--- | :--- | :--- |
+| **$O(1)$** | Constant time complexity | 定数時間 |
+| **$O(\log n)$** | Logarithmic time complexity | 対数時間 |
+| **$O(n)$** | Linear time complexity | 線形時間 |
+| **$O(n \log n)$** | Linearithmic time complexity | 線形対数時間 |
+| **$O(n^2)$** | Quadratic time complexity | 二乗時間 |
+| **$O(2^n)$** | Exponential time complexity | 指数時間 |
+| **$O(n!)$** | Factorial time complexity | 階乗時間 |
