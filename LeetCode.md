@@ -99,12 +99,14 @@ Variable Glossary
 
 ## math reading
 
-| 表記 | 英語 | 意味 |
-| :--- | :--- | :--- |
-| **$O(1)$** | Constant time complexity | 定数時間 |
-| **$O(\log n)$** | Logarithmic time complexity | 対数時間 |
-| **$O(n)$** | Linear time complexity | 線形時間 |
-| **$O(n \log n)$** | Linearithmic time complexity | 線形対数時間 |
-| **$O(n^2)$** | Quadratic time complexity | 二乗時間 |
-| **$O(2^n)$** | Exponential time complexity | 指数時間 |
-| **$O(n!)$** | Factorial time complexity | 階乗時間 |
+| 表記 | 英語 | 読み方（Big Oの読み方） | 意味 |
+| :--- | :--- | :--- | :--- |
+| **$O(1)$** | Constant time complexity | Big O of 1 | 定数時間 |
+| **$O(\log n)$** | Logarithmic time complexity | Big O of log n | 対数時間 |
+| **$O(n)$** | Linear time complexity | Big O of n | 線形時間 |
+| **$O(n \log n)$** | Linearithmic time complexity | Big O of n log n | 線形対数時間 |
+| **$O(n^2)$** | Quadratic time complexity | Big O of n squared | 二乗時間（入力の2乗に比例） |
+| **$O(n^3)$** | Cubic time complexity | Big O of n cubed | 三乗時間（入力の3乗に比例） |
+| **$O(n^k)$** | Polynomial time complexity | Big O of n to the k | 多項式時間（入力の $k$ 乗に比例） |
+| **$O(2^n)$** | Exponential time complexity | Big O of two to the n | 指数時間 |
+| **$O(n!)$** | Factorial time complexity | Big O of n factorial | 階乗時間 |
